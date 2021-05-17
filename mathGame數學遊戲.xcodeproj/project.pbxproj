@@ -13,6 +13,7 @@
 		9A4E0AC1264E554100934786 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4E0ABF264E554100934786 /* Main.storyboard */; };
 		9A4E0AC3264E554100934786 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A4E0AC2264E554100934786 /* Assets.xcassets */; };
 		9A4E0AC6264E554100934786 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A4E0AC4264E554100934786 /* LaunchScreen.storyboard */; };
+		9AEF8B4B26525C83005956CD /* NaikaiFont-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9AEF8B4A26525C83005956CD /* NaikaiFont-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A4E0AC2264E554100934786 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A4E0AC5264E554100934786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A4E0AC7264E554100934786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AEF8B4A26525C83005956CD /* NaikaiFont-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NaikaiFont-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9A4E0AC2264E554100934786 /* Assets.xcassets */,
 				9A4E0AC4264E554100934786 /* LaunchScreen.storyboard */,
 				9A4E0AC7264E554100934786 /* Info.plist */,
+				9AEF8B4A26525C83005956CD /* NaikaiFont-Bold.ttf */,
 			);
 			path = "mathGame數學遊戲";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A4E0AC6264E554100934786 /* LaunchScreen.storyboard in Resources */,
+				9AEF8B4B26525C83005956CD /* NaikaiFont-Bold.ttf in Resources */,
 				9A4E0AC3264E554100934786 /* Assets.xcassets in Resources */,
 				9A4E0AC1264E554100934786 /* Main.storyboard in Resources */,
 			);
